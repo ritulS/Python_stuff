@@ -29,6 +29,7 @@ def assign_closest_centroids():
         distance = []
         for j in ic:
             distance.append(distance_from_centroid(i,j))
+  #next thing
             
 
 
