@@ -37,8 +37,6 @@ def assign_nearest_centroids(data,k):
 
 #Move centroids based on mean of distances
 def move_centroid_position(data, cluster):
-    moved_centroids = []
-    new_df = 
 
     
 
